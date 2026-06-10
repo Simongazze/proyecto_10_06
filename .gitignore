@@ -5,6 +5,6 @@ __pycache__/
 
 # Environments
 .venv
-titanic.csv
+datos/titanic.csv
 
 # los datos se destrackean acá, pudiendo identificar las carpetas datos/titanic.csv o destrackear cualquier archivo *.csv
